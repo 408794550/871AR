@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="FancheyuTemp1" size="10.000000 6.756757" />
+    <ImageTarget name="haixiangtemp1" size="10.000000 6.461538" />
+    <ImageTarget name="pangxietemp" size="10.000000 9.338462" />
+    <ImageTarget name="haitunTemp" size="10.000000 14.430015" />
+    <ImageTarget name="haimaTemp" size="10.000000 14.992680" />
+  </Tracking>
+</QCARConfig>

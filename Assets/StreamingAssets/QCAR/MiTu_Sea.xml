@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="PangXie" size="10.000000 14.998237" />
+    <ImageTarget name="MoGuiYu" size="10.000000 14.998237" />
+    <ImageTarget name="LanJing" size="10.000000 14.998237" />
+    <ImageTarget name="FanCheYu" size="10.000000 14.998237" />
+    <ImageTarget name="ZhangYu" size="10.000000 14.998237" />
+    <ImageTarget name="XiaoChouYu" size="10.000000 14.998237" />
+    <ImageTarget name="HaiMa" size="10.000000 14.998237" />
+    <ImageTarget name="HaiXiang" size="10.000000 14.998237" />
+    <ImageTarget name="HaiXing" size="10.000000 14.998237" />
+    <ImageTarget name="ShuiMu" size="10.000000 14.998237" />
+    <ImageTarget name="QiYu" size="10.000000 14.998237" />
+    <ImageTarget name="ShaYu" size="10.000000 14.998237" />
+    <ImageTarget name="HaiTun" size="10.000000 14.998237" />
+    <ImageTarget name="HaiGui" size="10.000000 14.998237" />
+  </Tracking>
+</QCARConfig>

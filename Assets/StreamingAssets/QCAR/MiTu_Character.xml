@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="HaiLuo" size="10.000000 13.972222" />
+    <ImageTarget name="HaiXiang" size="10.000000 13.750000" />
+    <ImageTarget name="PangXie" size="10.000000 13.750000" />
+    <ImageTarget name="HaiGui" size="10.000000 13.750000" />
+    <ImageTarget name="FanCheYu" size="10.000000 13.750000" />
+    <ImageTarget name="HaiMa" size="10.000000 13.750000" />
+    <ImageTarget name="HaiTun" size="10.000000 13.750000" />
+  </Tracking>
+</QCARConfig>
